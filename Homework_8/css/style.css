@@ -1,4 +1,4 @@
-@font-face {
+t@font-face {
     font-family: 'Raleway-Regular';
     src: url(../fonts/Raleway-Regular.ttf);
 }
@@ -456,5 +456,5 @@ input:focus + label {
     background-color:  #ff8c2d;
 }
 .nav-pills {
-    justify-content: flex-start;
+    justify-content: center;
 }
